@@ -1,3 +1,9 @@
+# GitLab Stats:
+
+<div align="center">
+  <img src="https://gitlab-readme-stats-flax.vercel.app/api?username=V0lk3n&show_icons=true&theme=dark" />
+</div>  
+
 # GitHub Stats:
 
 <div align="center">
