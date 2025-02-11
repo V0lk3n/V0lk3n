@@ -9,7 +9,6 @@
 # Contributions:
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=V0lk3n&limit=5&theme=dracula&combine_all_yearly_contributions=true" /><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=V0lk3n&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" /><br>
   <img alt="commits today" src="https://badges.strrl.dev/commits/daily/V0lk3n?color=000000&style=for-the-badge&labelColor=FF0000"/>
   <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/V0lk3n?color=000000&style=for-the-badge&labelColor=FF0000"/>
